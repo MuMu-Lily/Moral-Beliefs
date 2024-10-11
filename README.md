@@ -32,4 +32,4 @@
 
 ## 引用
 如果您在研究中使用了这个数据集或代码，请引用我们的论文：
-Evaluating Moral Beliefs across LLMs through a Pluralistic Framework Anonymous ACL submission
+Evaluating Moral Beliefs across LLMs through a Pluralistic Framework
